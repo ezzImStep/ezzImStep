@@ -12,11 +12,11 @@
 
 ### 1. **PyCharm**  
 Моя основная среда разработки для написания кода. PyCharm обеспечивает мощные инструменты для работы с Python, что значительно ускоряет процесс разработки.  
-<img src="https://i.imgur.com/3kImdAk.png" alt="PyCharm" width="400">
+<img src="https://i.imgur.com/3kImdAk.png" alt="PyCharm" width="200">
 
 ### 2. **Git и GitHub**  
 Все проекты управляются с помощью Git и хранятся на GitHub. Это помогает легко отслеживать изменения в коде и сотрудничать с другими разработчиками.  
-<img src="https://i.imgur.com/dy2uNAS.png" alt="Git и GitHub" width="400">
+<img src="https://i.imgur.com/dy2uNAS.png" alt="Git и GitHub" width="200">
 
 ### 3. **Discord API**  
 Для взаимодействия с Discord я использую их официальный API, что позволяет интегрировать бота с сервером на глубоком уровне. В основном работаю с библиотекой `disnake.py`.  
